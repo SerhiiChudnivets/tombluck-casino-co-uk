@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://bunnicocasino.org.uk/sitemap.xml
+Sitemap: https://tombluck-casino.co.uk/sitemap.xml
